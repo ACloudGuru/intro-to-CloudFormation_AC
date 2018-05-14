@@ -2,6 +2,7 @@
 An Introduction to CloudFormation taking students through constructing templates and the use of advanced functionality
  
 Developed by Abhaya Chauhan
+
 Source code & Lesson files for the A Cloud Guru, Introduction to CloudFormation course.
 
 Please note, this is provided as-is, neither I, nor A Cloud Guru support this code. If you do identify any errors, then please identify and we will attempt to fix on a best efforts basis.

@@ -13,7 +13,7 @@ Please note, this is provided as-is, neither I, nor A Cloud Guru support this co
 
 There are four sections, each with multiple hands on labs.
 
-- 01: Introduciton to CloudFormation
+- 01: Introduction to CloudFormation
 - 02: CloudFormation Features
 - 03: Setting up an EC2 Instance
 - 04: Change Sets

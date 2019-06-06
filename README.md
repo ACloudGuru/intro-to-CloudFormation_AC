@@ -20,7 +20,7 @@ There are four sections, each with multiple hands on labs.
 
 ## Get Started
 
-To get started, clone this repository to your local machine (or downlload it as a ZIP file).
+To get started, clone this repository to your local machine (or download it as a ZIP file).
 
 There is a folder for each section.
 

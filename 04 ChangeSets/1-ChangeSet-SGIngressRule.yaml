@@ -8,15 +8,9 @@ Parameters:
 Mappings:
   RegionMap:
     us-east-1:
-      AMI: ami-1853ac65
-    us-west-1:
-      AMI: ami-bf5540df
-    eu-west-1:
-      AMI: ami-3bfab942
-    ap-southeast-1:
-      AMI: ami-e2adf99e
-    ap-southeast-2:
-      AMI: ami-43874721    
+      AMI: ami-0ed9277fb7eb570c9
+    us-west-2:
+      AMI: ami-00f7e5c52c0f43726
 Resources:
   EC2Instance:
     Type: AWS::EC2::Instance

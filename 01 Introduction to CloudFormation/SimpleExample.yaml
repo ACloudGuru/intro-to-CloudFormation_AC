@@ -3,7 +3,7 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t2.micro
-      ImageId: ami-467ca739 # Amazon Linux AMI in N.Virginia
+      ImageId: ami-0ed9277fb7eb570c9 # Amazon Linux 2 AMI (HVM) - Kernel 5.10, SSD Volume Type AMI in N.Virginia
       Tags:
         - Key: Name
           Value: A simple example

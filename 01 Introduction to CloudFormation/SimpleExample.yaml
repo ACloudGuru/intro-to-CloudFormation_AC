@@ -6,4 +6,5 @@ Resources:
       ImageId: ami-467ca739 # Amazon Linux AMI in N.Virginia
       Tags:
         - Key: Name
-          Value: A simple example
+          Value: !Join [ " ", [ I, love, big, Drape ] ]
+#### this is a test of the CF automation

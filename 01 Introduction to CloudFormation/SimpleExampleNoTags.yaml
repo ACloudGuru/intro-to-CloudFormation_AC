@@ -4,3 +4,10 @@ Resources:
     Properties:
       InstanceType: t2.micro
       ImageId: ami-467ca739 # Amazon Linux AMI in N.Virginia
+<<<<<<< Updated upstream
+=======
+      Tags:
+      - key: Name
+        Value: A simple example
+        ### Quick update to test automation
+>>>>>>> Stashed changes

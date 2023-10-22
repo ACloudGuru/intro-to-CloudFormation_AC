@@ -3,7 +3,7 @@ Resources:
     Type: AWS::EC2::Instance
     Properties:
       InstanceType: t2.micro
-      ImageId: ami-467ca739 # Amazon Linux AMI in N.Virginia
+      ImageId: ami-067d1e60475437da2 # Amazon Linux 2023 AMI in N.Virginia
       Tags:
         - Key: Name
-          Value: A simple example
+          Value: aSimpleExample
